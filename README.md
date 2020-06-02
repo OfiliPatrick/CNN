@@ -1,2 +1,2 @@
 # CNN
-Convolutional Neural Network
+Image Classification Model built with a Convolutional Neural Network
